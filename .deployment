@@ -1,0 +1,4 @@
+[config]
+GOROOT =  D:\home\go
+GOPATH =  D:\home\gopath
+command = build.bat
