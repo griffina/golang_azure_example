@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"net/http"
 	"os"
-	"strconv"
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
